@@ -1,2 +1,2 @@
 # exe-computer-graphics
-Este é um exercicio sobre desenho de formas geometricas dentro de um plano cartesiano. Rotação, Translação e Escala são usadas para redimensionar as formas geométricas. Isto faz parte da disciplina Computação Gráfica na faculdade.
+This is an exercise in drawing geometric shapes within a Cartesian plane. Rotation, Translation, and Scale are used to resize geometric shapes. This is part of Computer Graphics in college.
